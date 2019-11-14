@@ -1,4 +1,4 @@
-# Statistical-Machine-Learning
+# Statistical-Machine-Learning-and-Data-Mining
 
 ## Support Vector Machine
 - Implement the SVM using scikit-learn
