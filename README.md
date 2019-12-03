@@ -17,11 +17,16 @@
 ## K-Means
 - Files
     - K-Means.ipynb
+    - Alternative K-Means.ipynb
 - Implement K-Means from scratch
+- Implement an alternative to k-means from scratch
 
 
 ## K-NN
 - Files 
     - k-Nearest Neighbor Classifier.ipynb
+    - kNN from scratch.ipynb
 - Implement the k-NN using scikit-learn
 - Compared 1-NN to Voronoi cells
+- Implement the k-NN from scratch
+
