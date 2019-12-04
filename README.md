@@ -30,3 +30,8 @@
 - Compared 1-NN to Voronoi cells
 - Implement the k-NN from scratch
 
+## Gaussian Mixtures
+- Files
+    - EM Algorithm for Gaussian Mixtures.ipynb
+- Implement the EM Algorithm for Gaussian Mixtures
+
